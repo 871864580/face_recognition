@@ -1,5 +1,7 @@
 # Face Recognition 人脸识别
 
+应用例子：在windows中尝试人脸识别https://www.jianshu.com/p/670dc03ed081
+
 > 译者注：
 >
 > 本项目[face_recognition](https://github.com/ageitgey/face_recognition)是一个强大、简单、易上手的人脸识别开源项目，并且配备了完整的开发文档和应用案例，特别是兼容树莓派系统。
